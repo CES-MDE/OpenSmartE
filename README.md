@@ -5,3 +5,5 @@ Smart-E is a bottom-up simulation platform designed to evaluate energy efficienc
 ref : Berthou et al., SMART-E: A TOOL FOR ENERGY DEMAND SIMULATION AN OPTIMIZATION AT THE CITY SCALE, 2015 http://www.ibpsa.org/proceedings/BS2015/p2155.pdf
 
 Today only few functions are available in open source since we need to clean the code and validate " defaults parameterization"
+
+contact : thomas.berthou[at]mines-paristech.fr
